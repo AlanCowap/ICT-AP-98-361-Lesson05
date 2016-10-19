@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDesign", "Windo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDIApplication", "MDIApplication\MDIApplication.csproj", "{F4E157FA-DDC5-483F-8EF8-B209FF0599F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayFile", "DisplayFile\DisplayFile.csproj", "{0ECF9F75-3776-4AFC-A9C3-3B2D8A16BEB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4E157FA-DDC5-483F-8EF8-B209FF0599F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4E157FA-DDC5-483F-8EF8-B209FF0599F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4E157FA-DDC5-483F-8EF8-B209FF0599F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECF9F75-3776-4AFC-A9C3-3B2D8A16BEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECF9F75-3776-4AFC-A9C3-3B2D8A16BEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECF9F75-3776-4AFC-A9C3-3B2D8A16BEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECF9F75-3776-4AFC-A9C3-3B2D8A16BEB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
