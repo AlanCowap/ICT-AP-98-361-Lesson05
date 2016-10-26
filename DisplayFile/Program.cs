@@ -14,7 +14,7 @@ namespace DisplayFile
         {
             if(args.Length < 1)
             {
-                Console.WriteLine("Please enter a valid filename as argument e.g. >DisplayFile sample.txt");
+                Console.WriteLine("Please enter a valid filename e.g. >DisplayFile sample.txt");
                 return;
             }
             string[] lines = File.ReadAllLines(args[0]);
